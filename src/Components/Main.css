@@ -1,0 +1,5 @@
+.mainBox{
+   display: flex;
+   flex-wrap: wrap;
+}
+input{color: black;}

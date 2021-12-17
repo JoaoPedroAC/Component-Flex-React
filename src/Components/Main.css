@@ -1,5 +1,6 @@
 .mainBox{
    display: flex;
    flex-wrap: wrap;
+   justify-content: center;
 }
-input{color: black;}
+input{color: black; margin: 30px;}

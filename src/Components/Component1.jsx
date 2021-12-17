@@ -1,14 +1,11 @@
 import React from "react";
-import './script'
+import './script';
 export default function(props){
     return(
+        
         <div className={props.name}>
-            <h3>{props.title}</h3>
+            <h2>{props.title}</h2>
                 <input id="input" type='text' onChange={props.In}/>
-
-            <div>
-                <p>oi:{props.In}</p>
-            </div>
         </div>
     )
 }

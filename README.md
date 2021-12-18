@@ -1,5 +1,5 @@
 # SOBRE O PROJETO
-o motivo nada mais é que treinar criar componentes e ver os mesmos interagindo entre se, como por exemplo o componente 1 tem `input type='text'` e o componente 3 receber os valores dele; pude treinar a estilização dos componentes seperados e ve-los se comportando como se fosse um único arquivo .css sendo que foram bem mais que 1.
+o motivo nada mais é que treinar a criação de componentes e ver os mesmos interagindo entre si, como por exemplo, o componente 1 tendo um `input type='text'` e o componente 3 recebendo seu valor; pude treinar a estilização dos componentes seperados e ve-los se comportando como se fosse um único arquivo .css sendo que foram bem mais que 1.
 
 ## TECNOLOGIAS USADAS
 React.

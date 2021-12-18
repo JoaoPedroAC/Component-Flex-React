@@ -1,7 +1,5 @@
 import './Main.css';
 import React from 'react';
 
-export default (props) => 
-    <div className='mainBox'>
-        {props.children}
-    </div>
+const Main = (props) => <div className='mainBox'>{props.children}</div>;
+export default Main;
